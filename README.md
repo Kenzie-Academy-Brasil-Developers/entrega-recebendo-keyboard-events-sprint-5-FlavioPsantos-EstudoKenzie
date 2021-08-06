@@ -8,13 +8,13 @@ Nesta entrega, você criará uma página web simples que move uma caixa em respo
 
 Como de costume, crie um novo repositório no gitlab.
 
-Copie o [código de exemplo na documentação MDN](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/keydown_event) para eventos de teclado para um novo arquivo index.html.
+Copie o [código de exemplo na documentação MDN](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/keydown_egit@github.com:Kenzie-Academy-Brasil-Developers/entrega-recebendo-keyboard-events-sprint-5-FlavioPsantos-EstudoKenzie.gitvent) para eventos de teclado para um novo arquivo index.html.
 
 Tente fazer isso. Você pode desejar modificar o exemplo para mudar o alert() para um console.log().
 
 Pressione as teclas de cursor (setas) no teclado. Quais os nomes de tecla aparecem?
 
-Você também pode verificar a [documentação de Valores de Teclas](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key/Key_Values#Navigation_keys) (em inglês) para encontrar os nomes associados às diversas teclas.
+Você também pode verificar a [documentação de Valores de Teclas](https://developer.mozilla.org/en-US/docs/Web/API/Keygit@github.com:Kenzie-Academy-Brasil-Developers/entrega-recebendo-keyboard-events-sprint-5-FlavioPsantos-EstudoKenzie.gitboardEvent/key/Key_Values#Navigation_keys) (em inglês) para encontrar os nomes associados às diversas teclas.
 
 Adicione um div com id="box" dentro do elemento body da página, e aplique a seguinte regra CSS:
 

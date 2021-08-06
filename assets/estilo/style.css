@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: gray;
+    left: 200px;
+    top: 200px;
+    border-radius: 50px;
+    background-image: url(/assets/img/856843_ampliada.jpg);
+    background-size: contain;
+}
